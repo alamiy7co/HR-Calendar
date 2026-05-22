@@ -3,7 +3,7 @@
    ضع رابط Apps Script هنا فقط عند الحاجة للتغيير
 ========================================================= */
 
-const API_URL = "https://script.google.com/macros/s/AKfycbxwUvyuamXqQsYgyRKlzSed5T12ub3jg2cDXTXoMLgolCsFzB0KiPYINXCueYxIcdt9/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbyVxWCnAOpiGg1UwnfvhwsJ9DWBqtP0weWPVUMaysVKKgEu6Tdr0o_qzsLCi3mnODMJ/exec";
 const SHEET_URL = "https://docs.google.com/spreadsheets/d/12Bvm-qdnFeJPbuvEo2ZgZHeBlokirDWwnoO5t9uqmVA/edit?usp=sharing";
 
 const TYPE_CONFIG = {
